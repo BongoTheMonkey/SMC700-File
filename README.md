@@ -1,2 +1,2 @@
-# SMC700-File
+# Mame Files
 for Mame
